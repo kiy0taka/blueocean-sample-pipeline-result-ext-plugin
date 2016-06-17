@@ -16,7 +16,7 @@
   <dependencies>
     <dependency>
       <groupId>io.jenkins.blueocean</groupId>
-      <artifactId>blueocean-plugin</artifactId>
+      <artifactId>blueocean</artifactId>
       <version>1.0-SNAPSHOT</version>
     </dependency>
   </dependencies>
